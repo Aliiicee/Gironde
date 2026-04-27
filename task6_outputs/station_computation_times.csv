@@ -1,0 +1,13 @@
+station_number,station_name,reachable_nodes,computation_time_sec
+1,Centre d'incendie et de secours d'Andernos/Lanton,6321,0.03416600008495152
+2,Centre d'incendie et de secours d'Arcachon,6321,0.029916400089859962
+3,Centre d'incendie et de secours de Mios,6321,0.02905709994956851
+4,Centre d'incendie et de secours du Pyla-sur-Mer,6321,0.028145800111815333
+5,Centre d'incendie et de secours de Marcheprime,6321,0.028411800041794777
+6,Centre d'incendie et de secours du Cap-Ferret,6321,0.026063299970701337
+7,Centre d'incendie et de secours de Biganos,6321,0.03295659995637834
+8,Centre d'incendie et de secours du Teich,6321,0.030426800018176436
+9,Centre d'incendie et de secours de Gujan-Mestras,6321,0.02955790003761649
+10,Centre d'incendie et de secours de Belin-Beliet,6321,0.031202099984511733
+11,ESIS,6321,0.028874500188976526
+12,Centre d'incendie et de secours de La-Teste-de-Buch,6321,0.03145879996009171

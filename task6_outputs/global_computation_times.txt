@@ -1,0 +1,4 @@
+Graph build time (time.perf_counter): 26.6305 seconds
+Part 1 computation time (time.perf_counter): 0.0272 seconds
+Part 2 total computation time (time.perf_counter): 0.4097 seconds
+Approximate total area: 1890.96 km²
